@@ -6,9 +6,7 @@
 **Fecha:** [06/10/2025]
 
 <img src="img/Logo.png" alt="Logo" width="200">
-
 ---
-
 # **ÍNDEX**
 
 - [**1. Introducció**](#1-introducció)
