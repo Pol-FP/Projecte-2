@@ -1,11 +1,9 @@
 
 
-# SEGURETAT INFORMÀTICA
-## Informe SAI Everpia
-**Pol Castaño Meneses**  
-*Curs 2025-2026*
+# Informe SAI Everpia
 
-[T02: Informe Tecnic EverPIA](https://docs.google.com/document/d/1cs1J49AbjGk4ueACLpmbr9lt1COcJ6FNbsvyO6Adqg0/edit?usp=sharing)  
+**Nombre:** [Pol Castaño Meneses]  
+**Fecha:** [06/10/2025]
 
 ---
 
