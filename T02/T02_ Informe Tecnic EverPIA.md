@@ -1,8 +1,16 @@
-# 
 
-#### 
+
+# SEGURETAT INFORMÀTICA
+
+## Informe SAI Everpia
+
+**Pol Castaño Meneses**  
+*Curs 2025-2026*
 
 [T02: Informe Tecnic EverPIA](https://docs.google.com/document/d/1cs1J49AbjGk4ueACLpmbr9lt1COcJ6FNbsvyO6Adqg0/edit?usp=sharing)  
+
+---
+
 **ÍNDEX**
 
 - [**1. Introducció**](#1-introducció)
@@ -11,7 +19,8 @@
 - [**3. Càlcul de potència total**](#3-càlcul-de-potència-total)
 - [**4. Autonomia Requerida**](#4-autonomia-requerida)
 - [**5. Recerca de models de SAI**](#5-recerca-de-models-de-sai)
-# 
+
+---
 
 # 1. **Introducció**
 
