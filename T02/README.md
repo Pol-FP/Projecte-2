@@ -49,5 +49,5 @@ Un **informe tècnic complet**
 
 Pots consultar la resolució completa de l’activitat al següent document:
 
-👉 [**Accedir a l’arxiu de solució**](./solucio.md)
+👉 [**Accedir a l’arxiu de solució**](./solució.md)
 
