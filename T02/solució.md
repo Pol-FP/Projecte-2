@@ -5,7 +5,7 @@
 **Nombre:** [Pol Castaño Meneses]  
 **Fecha:** [06/10/2025]
 
-<img src="Logo.png" alt="Logo" width="100">
+<img src="/img/Logo.png" alt="Logo" width="100">
 
 ---
 
