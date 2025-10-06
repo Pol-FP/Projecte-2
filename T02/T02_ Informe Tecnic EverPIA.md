@@ -5,18 +5,12 @@
 [T02: Informe Tecnic EverPIA](https://docs.google.com/document/d/1cs1J49AbjGk4ueACLpmbr9lt1COcJ6FNbsvyO6Adqg0/edit?usp=sharing)  
 **ÍNDEX**
 
-[**1\. Introducció	3**](#introducció)
-
-[**2\. Inventari d’equips	3**](#inventari-d’equips)
-
-[**2.1. Especificacions tècniques	4**](#especificacions-tècniques)
-
-[**3\. Càlcul de potència total	4**](#càlcul-de-potència-total)
-
-[**4\. Autonomia Requerida	5**](#autonomia-requerida)
-
-[**5\. Recerca de models de SAI	6**](#recerca-de-models-de-sai)
-
+- [**1. Introducció**](#1-introducció)
+- [**2. Inventari d’equips**](#2-inventari-dequips)
+- [**2.1. Especificacions tècniques**](#21-especificacions-tècniques)
+- [**3. Càlcul de potència total**](#3-càlcul-de-potència-total)
+- [**4. Autonomia Requerida**](#4-autonomia-requerida)
+- [**5. Recerca de models de SAI**](#5-recerca-de-models-de-sai)
 # 
 
 # 
@@ -29,7 +23,7 @@
 
 # 
 
-1. # **Introducció** {#introducció}
+# 1. **Introducció**
 
 L’empresa **TecnoGestió S.L.**, especialitzada en gestió documental i assessorament informàtic, disposa d’un petit despatx amb quatre ordinadors de sobretaula, una impressora-fotocopiadora multifunció i un router d’accés a Internet.
 
@@ -37,7 +31,7 @@ A causa de les constants incidències en el subministrament elèctric a la zona,
 
 Aquest informe té com a finalitat **analitzar les necessitats energètiques del despatx, calcular la potència requerida, determinar l’autonomia mínima necessària i presentar diferents opcions de SAI** disponibles al mercat, amb la finalitat de recomanar la solució més adequada segons els requeriments de l’empresa.
 
-2. # **Inventari d’equips** {#inventari-d’equips}
+# 2. **Inventari d’equips**
 
 | Dispositiu | Quantitat | Connectar al SAI? | Justificació |
 | :---- | :---- | :---- | :---- |
@@ -46,7 +40,7 @@ Aquest informe té com a finalitat **analitzar les necessitats energètiques del
 | Impressora Mulifunció | 1 | No | No es posaria, ja que no és un aparell essencial pel funcionament de l'empresa |
 | Router | 1 | Sí |  |
 
-   1. # **Especificacions tècniques** {#especificacions-tècniques}
+# 2.1 **Especificacions tècniques**
 
 **Ordinadors de Sobretaula: [Ryzen](https://www.pccomponentes.com/pc-racing-ofimatica-amd-ryzen-3200g-8gb-480gb-ssd-windows-11)**
 
@@ -72,7 +66,7 @@ Aquest informe té com a finalitat **analitzar les necessitats energètiques del
 * **Consum:** 5W  
 * **Consum Real:** 5,56VA
 
-3. # **Càlcul de potència total** {#càlcul-de-potència-total}
+3. # **Càlcul de potència total** 
 
 | Dispositiu | Quantitat | Consum en VA |
 | ----- | :---: | :---: |
@@ -84,7 +78,7 @@ Aquest informe té com a finalitat **analitzar les necessitats energètiques del
 
 Després del càlcul, ens ha resultat una quantitat total de **1.404,24 VA**. Hi afegim un **20 %** de reserva per garantir un funcionament estable i evitar sobrecàrregues, de manera que la potència requerida pel SAI és de **1.686 VA.**
 
-4. # **Autonomia Requerida**  {#autonomia-requerida}
+4. # **Autonomia Requerida** 
 
 Tenint en compte els requeriments de l’empresa, guardar de manera segura els documents en curs i apagar correctament els ordinadors, es considera que un **temps d’autonomia acceptable i estàndard és d’entre 10 i 15 minuts**.
 
@@ -103,7 +97,7 @@ Addicionalment, cal tenir present que:
 
 La capacitat de la bateria perquè duri uns 10 minuts hauria de ser de 312.2AH.
 
-5. # **Recerca de models de SAI** {#recerca-de-models-de-sai}
+5. # **Recerca de models de SAI** 
 
 Després d’una recerca dels diferents SAI dins de les especificacions requerides pel client, s’ofereixen tres opcions:
 
