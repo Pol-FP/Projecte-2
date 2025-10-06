@@ -1,9 +1,7 @@
 
 
 # SEGURETAT INFORMÀTICA
-
 ## Informe SAI Everpia
-
 **Pol Castaño Meneses**  
 *Curs 2025-2026*
 
