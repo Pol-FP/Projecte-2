@@ -12,7 +12,7 @@ Benvinguts al **Projecte 2**. L’empresa TecnoGestió S.L., dedicada a la gesti
 
 ## 📂 Contingut
 
-La solució [solució](./solució.md) conté la activitat complete relacionade amb la tria del SAI, així com els càlculs i justificacions.
+La [solució](./solució.md/) conté la activitat complete relacionade amb la tria del SAI, així com els càlculs i justificacions.
 
 ---
 
