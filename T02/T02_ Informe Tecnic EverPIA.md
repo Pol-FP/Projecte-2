@@ -66,7 +66,7 @@ Aquest informe té com a finalitat **analitzar les necessitats energètiques del
 * **Consum:** 5W  
 * **Consum Real:** 5,56VA
 
-3. # **Càlcul de potència total** 
+# 3. **Càlcul de potència total** 
 
 | Dispositiu | Quantitat | Consum en VA |
 | ----- | :---: | :---: |
@@ -78,7 +78,7 @@ Aquest informe té com a finalitat **analitzar les necessitats energètiques del
 
 Després del càlcul, ens ha resultat una quantitat total de **1.404,24 VA**. Hi afegim un **20 %** de reserva per garantir un funcionament estable i evitar sobrecàrregues, de manera que la potència requerida pel SAI és de **1.686 VA.**
 
-4. # **Autonomia Requerida** 
+# 4. **Autonomia Requerida** 
 
 Tenint en compte els requeriments de l’empresa, guardar de manera segura els documents en curs i apagar correctament els ordinadors, es considera que un **temps d’autonomia acceptable i estàndard és d’entre 10 i 15 minuts**.
 
@@ -97,7 +97,7 @@ Addicionalment, cal tenir present que:
 
 La capacitat de la bateria perquè duri uns 10 minuts hauria de ser de 312.2AH.
 
-5. # **Recerca de models de SAI** 
+# 5. **Recerca de models de SAI** 
 
 Després d’una recerca dels diferents SAI dins de les especificacions requerides pel client, s’ofereixen tres opcions:
 
