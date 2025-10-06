@@ -51,7 +51,9 @@ Un **informe tècnic complet** en format Markdown que reculli:
 
 ---
 
-## 👨‍💻 Autor
-> Nom de l’alumne  
-> Cicle Formatiu / Mòdul Professional  
-> Data: octubre de 2025
+## 📄 Solució
+
+Pots consultar la resolució completa de l’activitat al següent document:
+
+👉 [**Accedir a l’arxiu de solució**](./solucio.md)
+
