@@ -9,7 +9,7 @@
 
 ---
 
-**ÍNDEX**
+# **ÍNDEX**
 
 - [**1. Introducció**](#1-introducció)
 - [**2. Inventari d’equips**](#2-inventari-dequips)
