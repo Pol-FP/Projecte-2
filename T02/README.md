@@ -42,17 +42,10 @@ Realitzar l’**estudi tècnic** i la **tria adequada d’un SAI** que s’ajust
 
 ---
 
-## 🧾 Resultat esperat
-
-Un **informe tècnic complet** en format Markdown que reculli:
-- L’estudi de potència  
-- Les opcions de SAI valorades  
-- La decisió final, amb una justificació tècnica i econòmica  
-
----
 
 ## 📄 Solució
 
+Un **informe tècnic complet**
 Pots consultar la resolució completa de l’activitat al següent document:
 
 👉 [**Accedir a l’arxiu de solució**](./solucio.md)
