@@ -119,4 +119,4 @@ Si l’empresa preveu **ampliar els equips o necessitar un control més avançat
 
 ---
 
-[tornar al repository](README.md) 
+[Tornar al Enunciat](README.md) 
