@@ -5,7 +5,8 @@
 **Nombre:** [Pol Castaño Meneses]  
 **Fecha:** [06/10/2025]
 
-![Logo Pia](img/Logo.png)
+<img src="logo.png" alt="Logo" width="100">
+
 ---
 
 # **ÍNDEX**
