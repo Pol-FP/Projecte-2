@@ -13,16 +13,6 @@
 - [**5. Recerca de models de SAI**](#5-recerca-de-models-de-sai)
 # 
 
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
 # 1. **Introducció**
 
 L’empresa **TecnoGestió S.L.**, especialitzada en gestió documental i assessorament informàtic, disposa d’un petit despatx amb quatre ordinadors de sobretaula, una impressora-fotocopiadora multifunció i un router d’accés a Internet.
