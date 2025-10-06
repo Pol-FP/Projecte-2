@@ -117,3 +117,6 @@ Per a les necessitats actuals de l’empresa, **el model més adequat és el SPS
 
 Si l’empresa preveu **ampliar els equips o necessitar un control més avançat**, es podria considerar el **SPS 2000 ADV T**, tot i que suposa un cost superior i ofereix més funcions de les que el despatx actual necessita.
 
+---
+
+[tornar al repository](./T02) 
