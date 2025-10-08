@@ -25,4 +25,4 @@ Per a cada client, la proposta ha de contenir:
 ## ⚠️ Nota important
 Tot el que prepareu en aquesta tasca **servirà com a base** per al **Producte P03: Presentació d’elecció de hosting**, que haureu d’exposar davant del client en el marc del Projecte Intermodular.
 
-[**Solució Aqui**](solució.md)
+👉 [**Accedir a l’arxiu de solució**](./solució.md)
