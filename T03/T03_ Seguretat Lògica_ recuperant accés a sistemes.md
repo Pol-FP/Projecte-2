@@ -7,7 +7,7 @@
 - Quan siguem dins, escollirem **Zorin (recovery mode)**.  
   (se me olvido la foto)  
 - A continuació, se’ns mostrarà el menú de recuperació, on triarem l’opció **root**.  
-  ![][image2]  
+  ![Menu de recuperacion de Zorin amb diverses opcions](img/image2.png)  
 - Executarem la següent comanda per muntar el disc i poder editar arxius:  
   `mount -rw -o remount /`  
   ![][image3]  
