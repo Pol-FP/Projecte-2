@@ -7,13 +7,13 @@
 - Quan siguem dins, escollirem **Zorin (recovery mode)**.  
   (se me olvido la foto)  
 - A continuació, se’ns mostrarà el menú de recuperació, on triarem l’opció **root**.  
-  ![Menu de recuperacion de Zorin amb diverses opcions](img/image2.png)  
+![Menu de recuperacion de Zorin amb diverses opcions](img/image2.png)  
 - Executarem la següent comanda per muntar el disc i poder editar arxius:  
   `mount -rw -o remount /`  
-  ![][image3]  
+![Terminal Con la comanda mount](img/image3)  
 - Després, canviarem la contrasenya de l’usuari amb la comanda següent:  
   `passwd miquel`  
-  ![][image4]  
+![Terminal Con la comanda Passwd](img/image4) 
 - Un cop feta la modificació, reiniciarem el sistema. En tornar a iniciar, ja podrem entrar amb la nova contrasenya.  
   ![][image5]  
 - A la terminal, escriurem la comanda següent `grub-mkpasswd-pbkdf2` Aquesta comanda generarà un hash per a la contrasenya que indiquem. Com que no volem escriure tot el hash manualment, podem utilitzar la comanda tee per desar-lo en un fitxer  
