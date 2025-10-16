@@ -3,7 +3,7 @@
 #### 
 
 - Per entrar al mode **GRUB**, premerem la tecla **Shift** i qualsevol altra tecla mentre s’inicia la màquina.Un cop aparegui el menú, seleccionarem l’opció **Advanced options for Zorin**.  
-  ![Menu inicial GRUB Zorin OS][image1]  
+![Menu inicial GRUB Zorin OS][img/image1]  
 - Quan siguem dins, escollirem **Zorin (recovery mode)**.  
   (se me olvido la foto)  
 - A continuació, se’ns mostrarà el menú de recuperació, on triarem l’opció **root**.  
