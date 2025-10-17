@@ -10,6 +10,7 @@ Aquest projecte es divideix en dues tasques principals:
 
 - [Tasca 2 (T02)](./T02/README.md) – Primera activitat del projecte.  
 - [Tasca 3 (T03)](./T03/README.md) – Segona activitat del projecte.
+- [Tasca 8 (T08)](./T08/README.md) – Segona activitat del projecte.
 
 ---
 
