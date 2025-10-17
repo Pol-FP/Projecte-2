@@ -30,7 +30,7 @@
 - A continuació, escriurem aquestes dues línies dins del fitxer `40_custom`  
   `set superusers="nom_usuari"`  
   `password_pbkdf2 nom_usuari hash`  
-  A la primera línia hi posarem el nom de l’usuari, i a la segona enganxarem el hash copiat anteriorment amb **Ctrl \+ U**.  
+  A la primera línia hi posarem el nom de l’usuari, i a la segona escriurem el nom de l'usuari i enganxarem el hash copiat anteriorment amb **Ctrl \+ U**.  
   Guardarem i tancarem el fitxer.  
   ![Interfaz NANO con las dos lineas escritas i el hash pegado](img/image11.png)
 - Finalment, aplicarem els canvis amb la comanda:  
