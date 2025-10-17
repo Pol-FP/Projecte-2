@@ -1,19 +1,33 @@
-# 🔐 Recuperació d’accés i fortificació del GRUB en Zorin OS
+# 🔐 T03: Seguretat Lògica — Recuperant accés a sistemes
 
-En aquesta tercera tasca, ens enfrontem a un problema habitual en entorns Linux: la pèrdua de la contrasenya d’usuari que impedeix l’accés a dades importants. El nostre client disposa d’un portàtil amb Zorin OS, un sistema Linux amb entorn gràfic, però no pot accedir-hi perquè ha oblidat la contrasenya. Per garantir la seguretat del sistema i evitar qualsevol risc de pèrdua o dany sobre l’equip original, treballarem sobre una còpia del disc original en una màquina virtual.
+L’equip de la consultora ha rebut un encàrrec urgent per solucionar un problema de seguretat lògica en un portàtil amb **Zorin OS** (un Linux amb entorn gràfic). El dispositiu pertany a un directiu que ha oblidat la contrasenya, i cal recuperar l’accés per recuperar informació molt important.
 
-L’objectiu principal és recuperar l’accés al sistema modificant la contrasenya d’un usuari existent, tot aprofitant les vulnerabilitats del carregador d’arrencada GRUB. Posteriorment, i atenent a les preocupacions del client, investigarem com protegir l’accés al GRUB amb contrasenya per evitar que aquesta vulnerabilitat es pugui explotar en el futur.
-
----
-
-## 🎯 Objectius de la pràctica
-
-- Configurar una màquina virtual amb el disc clonat del portàtil.
-- Identificar l’usuari existent al sistema Linux.
-- Recuperar l’accés canviant la contrasenya de l’usuari.
-- Investigar i implementar la protecció per contrasenya al GRUB.
-- Documentar tot el procés, incloent-hi evidències gràfiques i fonts consultades.
+Per evitar riscos sobre l’equip original, se’ns ha facilitat un **disc virtual clonat** sobre el qual treballarem. La primera fase consisteix a crear una **màquina virtual** on connectar aquest disc, identificar l’usuari existent i assignar-li una nova contrasenya per poder accedir al sistema.
 
 ---
 
-Amb aquesta pràctica, aprofundirem en conceptes clau de la seguretat lògica a Linux, combinant l’explotació de vulnerabilitats amb mesures de protecció per reforçar la seguretat dels sistemes.
+## 🎯 Objectiu del projecte
+
+Recuperar l’accés al sistema Linux a partir d’un disc clonat i, a més, implementar mesures de seguretat per **fortificar l’accés al GRUB** i evitar que es pugui reiniciar la contrasenya fàcilment en cas de pèrdua o robatori del dispositiu.
+
+---
+
+## 🧩 Tasques a realitzar
+
+1. Crear una màquina virtual i connectar el disc virtual proporcionat.  
+2. Vulnereu l’accés al GRUB per poder recuperar el sistema.  
+3. Identificar l’usuari existent al sistema.  
+4. Modificar la contrasenya de l’usuari i verificar que ara és possible accedir-hi.  
+5. Investigar i implementar mesures per protegir l’accés al GRUB amb contrasenya.  
+6. Documentar tot el procediment amb imatges i fonts d’informació.  
+7. Pujar la documentació i evidències al repositori.
+
+---
+
+## 📄 Solució
+
+Un document complet amb el procés de recuperació i fortificació del sistema, incloent-hi captures i explicacions detallades.
+
+Pots consultar la resolució completa de l’activitat al següent document:
+
+👉 [**Accedir a l’arxiu de solució**](./solució.md)
