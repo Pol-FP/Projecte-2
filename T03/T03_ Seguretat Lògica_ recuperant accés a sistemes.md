@@ -22,23 +22,23 @@
   ![Terminal Con la comanda grub i tee](img/image7.png)
 - Ara editarem l’arxiu `/etc/grub.d/40_custom` amb:  
   `sudo nano -F /etc/grub.d/40_custom`  
-  ![][image8]  
+  ![Terminal Con la comanda sudo nano](img/image8.png) 
 - Dins de *nano*, premerem **Ctrl \+ R** per obrir el fitxer on tenim el hash.  
-  ![][image9]  
+  ![Interfaz NANO escribiendo buffer](img/image9.png)  
 - Quan aparegui, ens situarem on comença el hash, premerem **Alt \+ A** per començar a seleccionar i marcarem tot el contingut. Després, premerem **Alt \+ 6** per copiar-lo. Tanquem l’arxiu amb **Ctrl \+ X**.  
-  ![][image10]  
+  ![Interfaz NANO copiando el hash](img/image10.png)  
 - A continuació, escriurem aquestes dues línies dins del fitxer `40_custom`  
   `set superusers="nom_usuari"`  
   `password_pbkdf2 nom_usuari hash`  
   A la primera línia hi posarem el nom de l’usuari, i a la segona enganxarem el hash copiat anteriorment amb **Ctrl \+ U**.  
   Guardarem i tancarem el fitxer.  
-  ![][image11]  
+  ![Interfaz NANO con las dos lineas escritas i el hash pegado](img/image11,png)  
 - Finalment, aplicarem els canvis amb la comanda:  
   `sudo grub-mkconfig -o /boot/grub/grub.cfg`  
-  ![][image12]  
+  ![Termianl Con la comanda grub](img/image12.png)  
 - Ara, quan tornem a entrar al **recovery mode**, després de seleccionar *Advanced options for Zorin*, el sistema ens demanarà un usuari.  
-  ![][image13]  
+  ![Menu grub Zorin](img/image13.png)  
 - A més, en engegar la màquina, també se’ns sol·licitarà usuari i contrasenya per accedir.  
-  ![][image14]
+  ![Pantalla de que se requiere usuario y contrsaeña][image14]
 
 R
