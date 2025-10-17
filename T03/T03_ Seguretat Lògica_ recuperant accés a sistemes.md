@@ -32,7 +32,7 @@
   `password_pbkdf2 nom_usuari hash`  
   A la primera línia hi posarem el nom de l’usuari, i a la segona enganxarem el hash copiat anteriorment amb **Ctrl \+ U**.  
   Guardarem i tancarem el fitxer.  
-  ![Interfaz NANO con las dos lineas escritas i el hash pegado](img/image11,png)  
+  ![Interfaz NANO con las dos lineas escritas i el hash pegado](img/image11,png)
 - Finalment, aplicarem els canvis amb la comanda:  
   `sudo grub-mkconfig -o /boot/grub/grub.cfg`  
   ![Termianl Con la comanda grub](img/image12.png)  
