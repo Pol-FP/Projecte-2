@@ -1,4 +1,4 @@
-# Proposta de domini i hosting per al client EcoFit Box
+v# Proposta de domini i hosting per al client EcoFit Box
 
 ## 1\. Presentació del client
 
@@ -202,3 +202,7 @@
   - Ofereix bon rendiment per a hosting de podcasts amb creixement previst.  
   - L’extensió **.fm** reforça la identitat i és fàcil de recordar.  
   - És una solució escalable i fiable per a un projecte de contingut d’àudio professional.
+
+---
+
+👉[**Tornar al Enunciat**](README.md) 
