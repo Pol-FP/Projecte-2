@@ -41,4 +41,6 @@
 - A més, en engegar la màquina, també se’ns sol·licitarà usuari i contrasenya per accedir.  
   ![Pantalla de que se requiere usuario y contrsaeña](img/image14.png)
 
-R
+---
+
+👉[**Tornar al Enunciat**](README.md) 
