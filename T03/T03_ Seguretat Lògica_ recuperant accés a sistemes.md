@@ -39,6 +39,6 @@
 - Ara, quan tornem a entrar al **recovery mode**, després de seleccionar *Advanced options for Zorin*, el sistema ens demanarà un usuari.  
   ![Menu grub Zorin](img/image13.png)  
 - A més, en engegar la màquina, també se’ns sol·licitarà usuari i contrasenya per accedir.  
-  ![Pantalla de que se requiere usuario y contrsaeña][image14]
+  ![Pantalla de que se requiere usuario y contrsaeña](img/image14.png)
 
 R
